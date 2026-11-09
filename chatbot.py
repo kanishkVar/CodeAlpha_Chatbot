@@ -1,6 +1,3 @@
-"""CodeAlpha Python Internship - Task 4: Basic Chatbot
-A simple rule-based chatbot that replies to predefined user inputs.
-"""
 
 
 def get_response(user_input):
