@@ -1,6 +1,6 @@
 # CodeAlpha_BasicChatbot
 
-Task 4 of the **CodeAlpha Python Programming Internship**.
+**CodeAlpha Python Programming Internship**.
 
 A simple rule-based chatbot that replies to predefined user inputs.
 
